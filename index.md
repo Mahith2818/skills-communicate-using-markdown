@@ -12,5 +12,10 @@ Initialized my code example
 ``` javascript
 var myVar = "Hello, welcome!";
 ```
+- [x] Turn on GitHub Pages
+- [x] Greeted everyone
+- [x] imported an image
+- [x] executed code
+- [x] created a task list
 
 Hurray I've Done!
